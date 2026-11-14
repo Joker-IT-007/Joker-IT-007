@@ -19,6 +19,9 @@ Here are some ideas to get you started:
 <p align="left">
   <img src="https://skillicons.dev/icons?i=cpp,c,python,git,github,vscode" />
 </p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Salom!+Men+C%2B%2B+dasturchisiman;Algoritmlar+va+tizimlar+yarataman;GitHub+profilimga+xush+kelibsiz!" alt="Typing SVG" />
+</p>
 
 
 
