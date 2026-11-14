@@ -9,6 +9,9 @@ My Portofolio
 [![](https://komarev.com/ghpvc/?username=Joker-IT-007&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,8&height=220&section=header&text=Javohir%20Hamidjonov&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=C++%20Developer%20|%20Tech%20Enthusiast&descSize=16&descAlignY=58" />
+</p>
 ### Texnologiyalar va Tillar:
 <p align="left">
   <img src="https://skillicons.dev/icons?i=cpp,c,python,git,github,vscode" />
@@ -28,9 +31,7 @@ My Portofolio
 <p align="center">
   <img src="https://media4.giphy.com/media/L05HgB2h6qICDs5Sms/giphy.gif" width="400" />
 </p>
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,8&height=220&section=header&text=Javohir%20Hamidjonov&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=C++%20Developer%20|%20Tech%20Enthusiast&descSize=16&descAlignY=58" />
-</p>
+
 
 
 -->
