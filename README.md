@@ -29,9 +29,6 @@ My Portofolio
 <p align="center">
   <img src="https://media4.giphy.com/media/L05HgB2h6qICDs5Sms/giphy.gif" width="400" />
 </p>
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,cpp,c,python,git,github,vscode" />
-</p>
 <h3 align="center">🐍 Meni GitHub faolligim</h3>
 <p align="center">
   <img src="https://raw.githubusercontent.com/Joker-IT-007/Joker-IT-007/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
@@ -51,6 +48,45 @@ My Portofolio
 </p>
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450" />
+</p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Joker-IT-007&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&margin-h=4" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Joker-IT-007&theme=tokyonight&hide_border=true&langs_count=7" />
+</p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Joker-IT-007&theme=react-dark&hide_border=true&area=true" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Joker-IT-007&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joker-IT-007&layout=compact&theme=radical&hide_border=true" />
+</p>
+### 📊 Ko'nikmalar darajasi
+<p align="left">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Algorithms-FF6F00?style=for-the-badge&logo=leetcode&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
+<p align="center">
+  <a href="https://t.me/SIZNING_USERNAME">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+  <a href="https://youtube.com/@SIZningKanal">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+</p>
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=radical" />
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Joker-IT-007&theme=tokyonight" />
+</p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&text=Tashrifingiz_uchun_rahmat!_✨&fontSize=22&fontColor=fff&animation=fadeIn" />
 </p>
 
 
