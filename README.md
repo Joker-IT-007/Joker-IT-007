@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 [![](https://komarev.com/ghpvc/?username=Joker-IT-007&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-https://readme-typing-svg.herokuapp.com/demo/?lines=Im+the+programer;my+name+is+Javohir;I+love+sport
+
+
 
 -->
